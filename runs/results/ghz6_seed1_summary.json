@@ -1,0 +1,9 @@
+{
+ "seed": 1,
+ "lamb": 0.0,
+ "iters": 200,
+ "runtime_s": null,
+ "final_infid": 0.5105314211884804,
+ "min_infid": 0.5003602910840808,
+ "mean_last20": 0.5413840562916029
+}

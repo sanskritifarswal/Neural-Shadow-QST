@@ -1,0 +1,6 @@
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+*.log
+runs/weekly_progress*
+runs/build_html.py
