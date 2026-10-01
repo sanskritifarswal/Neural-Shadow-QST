@@ -1,0 +1,16 @@
+{
+ "tag": "ghz40_hold_n25_seed0",
+ "ntrain": 25,
+ "nhold": 175,
+ "hold_src": "175 unused author shadows",
+ "seed": 0,
+ "iters": 200,
+ "runtime_s": 116.84559202194214,
+ "final_exact_infid": 0.1412928756175006,
+ "mean_last20_exact": 0.18163853543843286,
+ "mean_last20_trainloss": -0.42413510081985945,
+ "final_holdout_infid_est": 0.15307111982847244,
+ "final_holdout_se": 0.09053417858656274,
+ "train_bias": -0.6057736362582923,
+ "holdout_bias": 0.011778244210971844
+}

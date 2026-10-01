@@ -1,0 +1,20 @@
+{
+ "tag": "v2_exact_seed6",
+ "mode": "exact",
+ "seed": 6,
+ "iters": 200,
+ "lamb": 0.0,
+ "pcx": 0.0,
+ "nshadow": 100,
+ "shadows_total": 20000,
+ "runtime_s": 693.8372497558594,
+ "noisy_pretrain": false,
+ "final_infid": 0.5000052359754965,
+ "min_infid": 0.5000052359754965,
+ "mean_last20": 0.5000070502477098,
+ "escape_iter": null,
+ "p000000": 5.720261392748237e-23,
+ "p111111": 0.9999895280565178,
+ "holdout_shadow_fid": 0.509273749227391,
+ "holdout_shadow_fid_se": 0.04141643639758523
+}

@@ -4,3 +4,7 @@ __pycache__/
 *.log
 runs/weekly_progress*
 runs/build_html.py
+runs/build_html*.py
+runs/*.md
+runs/results/tables_*.md
+runs/results/jobs_*.txt

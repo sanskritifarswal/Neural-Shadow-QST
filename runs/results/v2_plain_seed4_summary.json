@@ -1,0 +1,19 @@
+{
+ "tag": "v2_plain_seed4",
+ "mode": "plain",
+ "seed": 4,
+ "iters": 200,
+ "lamb": 0.0,
+ "pcx": 0.0,
+ "nshadow": 100,
+ "shadows_total": 20000,
+ "runtime_s": 592.1860690116882,
+ "final_infid": 0.5048234510149257,
+ "min_infid": 0.5000307548039897,
+ "mean_last20": 0.5068048852488471,
+ "escape_iter": null,
+ "p000000": 2.9747511191184498e-15,
+ "p111111": 0.9903531084342952,
+ "holdout_shadow_fid": 0.5337692887728319,
+ "holdout_shadow_fid_se": 0.04478354744170423
+}

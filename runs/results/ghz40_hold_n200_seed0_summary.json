@@ -1,0 +1,16 @@
+{
+ "tag": "ghz40_hold_n200_seed0",
+ "ntrain": 200,
+ "nhold": 200,
+ "hold_src": "200 fresh shadows (clifford_cirq.py)",
+ "seed": 0,
+ "iters": 200,
+ "runtime_s": 488.95862889289856,
+ "final_exact_infid": 0.00567289780730984,
+ "mean_last20_exact": 0.005782827500514526,
+ "mean_last20_trainloss": -0.017193331061736882,
+ "final_holdout_infid_est": 0.18334147796682687,
+ "final_holdout_se": 0.0842833815427226,
+ "train_bias": -0.02297615856225141,
+ "holdout_bias": 0.17766858015951703
+}
