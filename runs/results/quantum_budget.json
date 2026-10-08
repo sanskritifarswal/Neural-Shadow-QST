@@ -1,0 +1,482 @@
+{
+ "3": {
+  "ibm": {
+   "depth": 22.7,
+   "two": 8.9,
+   "one": 8.2
+  },
+  "ionq": {
+   "depth": 16.5,
+   "two": 5.5,
+   "one": 11.1
+  },
+  "protocols": {
+   "IBM (Heron-class)": {
+    "NSQST demo, 200 iters (100 fresh shadows/iter)": {
+     "qpu_seconds": 5.33872,
+     "usd": 8.541952,
+     "shots": 20000
+    },
+    "NSQST paper, 2000 iters": {
+     "qpu_seconds": 53.3872,
+     "usd": 85.41952,
+     "shots": 200000
+    },
+    "NSQST + pre-training (3000 CB shots + 200 shadows)": {
+     "qpu_seconds": 0.8140072,
+     "usd": 1.3024115200000002,
+     "shots": 3200
+    },
+    "plain classical-shadow fidelity (200 shadows)": {
+     "qpu_seconds": 0.0533872,
+     "usd": 0.08541952000000001,
+     "shots": 200
+    }
+   },
+   "IonQ Aria": {
+    "NSQST demo, 200 iters (100 fresh shadows/iter)": {
+     "qpu_seconds": 97.97,
+     "usd": 156.09,
+     "shots": 20000
+    },
+    "NSQST paper, 2000 iters": {
+     "qpu_seconds": 979.7,
+     "usd": 1560.9,
+     "shots": 200000
+    },
+    "NSQST + pre-training (3000 CB shots + 200 shadows)": {
+     "qpu_seconds": 5.2847,
+     "usd": 12.4166,
+     "shots": 3200
+    },
+    "plain classical-shadow fidelity (200 shadows)": {
+     "qpu_seconds": 0.9797,
+     "usd": 12.4166,
+     "shots": 200
+    }
+   },
+   "IonQ Forte": {
+    "NSQST demo, 200 iters (100 fresh shadows/iter)": {
+     "qpu_seconds": 97.97,
+     "usd": 159.829,
+     "shots": 20000
+    },
+    "NSQST paper, 2000 iters": {
+     "qpu_seconds": 979.7,
+     "usd": 1598.2900000000002,
+     "shots": 200000
+    },
+    "NSQST + pre-training (3000 CB shots + 200 shadows)": {
+     "qpu_seconds": 5.2847,
+     "usd": 25.7899,
+     "shots": 3200
+    },
+    "plain classical-shadow fidelity (200 shadows)": {
+     "qpu_seconds": 0.9797,
+     "usd": 25.7899,
+     "shots": 200
+    }
+   }
+  }
+ },
+ "4": {
+  "ibm": {
+   "depth": 42.0,
+   "two": 25.7,
+   "one": 9.7
+  },
+  "ionq": {
+   "depth": 40.8,
+   "two": 14.8,
+   "one": 45.1
+  },
+  "protocols": {
+   "IBM (Heron-class)": {
+    "NSQST demo, 200 iters (100 fresh shadows/iter)": {
+     "qpu_seconds": 5.6012,
+     "usd": 8.961920000000001,
+     "shots": 20000
+    },
+    "NSQST paper, 2000 iters": {
+     "qpu_seconds": 56.012,
+     "usd": 89.6192,
+     "shots": 200000
+    },
+    "NSQST + pre-training (3000 CB shots + 200 shadows)": {
+     "qpu_seconds": 0.818672,
+     "usd": 1.3098752,
+     "shots": 3200
+    },
+    "plain classical-shadow fidelity (200 shadows)": {
+     "qpu_seconds": 0.056012,
+     "usd": 0.08961920000000001,
+     "shots": 200
+    }
+   },
+   "IonQ Aria": {
+    "NSQST demo, 200 iters (100 fresh shadows/iter)": {
+     "qpu_seconds": 301.36999999999995,
+     "usd": 487.03999999999996,
+     "shots": 20000
+    },
+    "NSQST paper, 2000 iters": {
+     "qpu_seconds": 3013.7,
+     "usd": 4870.4,
+     "shots": 200000
+    },
+    "NSQST + pre-training (3000 CB shots + 200 shadows)": {
+     "qpu_seconds": 9.118699999999999,
+     "usd": 14.305399999999999,
+     "shots": 3200
+    },
+    "plain classical-shadow fidelity (200 shadows)": {
+     "qpu_seconds": 3.0136999999999996,
+     "usd": 12.4166,
+     "shots": 200
+    }
+   },
+   "IonQ Forte": {
+    "NSQST demo, 200 iters (100 fresh shadows/iter)": {
+     "qpu_seconds": 301.36999999999995,
+     "usd": 480.19500000000005,
+     "shots": 20000
+    },
+    "NSQST paper, 2000 iters": {
+     "qpu_seconds": 3013.7,
+     "usd": 4801.950000000001,
+     "shots": 200000
+    },
+    "NSQST + pre-training (3000 CB shots + 200 shadows)": {
+     "qpu_seconds": 9.118699999999999,
+     "usd": 25.7899,
+     "shots": 3200
+    },
+    "plain classical-shadow fidelity (200 shadows)": {
+     "qpu_seconds": 3.0136999999999996,
+     "usd": 25.7899,
+     "shots": 200
+    }
+   }
+  }
+ },
+ "6": {
+  "ibm": {
+   "depth": 90.6,
+   "two": 82.8,
+   "one": 16.9
+  },
+  "ionq": {
+   "depth": 71.7,
+   "two": 30.6,
+   "one": 91.8
+  },
+  "protocols": {
+   "IBM (Heron-class)": {
+    "NSQST demo, 200 iters (100 fresh shadows/iter)": {
+     "qpu_seconds": 6.26216,
+     "usd": 10.019456,
+     "shots": 20000
+    },
+    "NSQST paper, 2000 iters": {
+     "qpu_seconds": 62.621599999999994,
+     "usd": 100.19456,
+     "shots": 200000
+    },
+    "NSQST + pre-training (3000 CB shots + 200 shadows)": {
+     "qpu_seconds": 0.8293615999999999,
+     "usd": 1.32697856,
+     "shots": 3200
+    },
+    "plain classical-shadow fidelity (200 shadows)": {
+     "qpu_seconds": 0.0626216,
+     "usd": 0.10019456,
+     "shots": 200
+    }
+   },
+   "IonQ Aria": {
+    "NSQST demo, 200 iters (100 fresh shadows/iter)": {
+     "qpu_seconds": 617.06,
+     "usd": 1000.62,
+     "shots": 20000
+    },
+    "NSQST paper, 2000 iters": {
+     "qpu_seconds": 6170.599999999999,
+     "usd": 10006.199999999999,
+     "shots": 200000
+    },
+    "NSQST + pre-training (3000 CB shots + 200 shadows)": {
+     "qpu_seconds": 15.875599999999999,
+     "usd": 25.291199999999996,
+     "shots": 3200
+    },
+    "plain classical-shadow fidelity (200 shadows)": {
+     "qpu_seconds": 6.170599999999999,
+     "usd": 12.4166,
+     "shots": 200
+    }
+   },
+   "IonQ Forte": {
+    "NSQST demo, 200 iters (100 fresh shadows/iter)": {
+     "qpu_seconds": 617.06,
+     "usd": 988.0740000000001,
+     "shots": 20000
+    },
+    "NSQST paper, 2000 iters": {
+     "qpu_seconds": 6170.599999999999,
+     "usd": 9880.74,
+     "shots": 200000
+    },
+    "NSQST + pre-training (3000 CB shots + 200 shadows)": {
+     "qpu_seconds": 15.875599999999999,
+     "usd": 27.189240000000005,
+     "shots": 3200
+    },
+    "plain classical-shadow fidelity (200 shadows)": {
+     "qpu_seconds": 6.170599999999999,
+     "usd": 25.7899,
+     "shots": 200
+    }
+   }
+  }
+ },
+ "8": {
+  "ibm": {
+   "depth": 157.6,
+   "two": 167.2,
+   "one": 25.2
+  },
+  "ionq": {
+   "depth": 106.3,
+   "two": 51.2,
+   "one": 151.4
+  },
+  "protocols": {
+   "IBM (Heron-class)": {
+    "NSQST demo, 200 iters (100 fresh shadows/iter)": {
+     "qpu_seconds": 7.17336,
+     "usd": 11.477376,
+     "shots": 20000
+    },
+    "NSQST paper, 2000 iters": {
+     "qpu_seconds": 71.7336,
+     "usd": 114.77376,
+     "shots": 200000
+    },
+    "NSQST + pre-training (3000 CB shots + 200 shadows)": {
+     "qpu_seconds": 0.8425535999999999,
+     "usd": 1.34808576,
+     "shots": 3200
+    },
+    "plain classical-shadow fidelity (200 shadows)": {
+     "qpu_seconds": 0.0717336,
+     "usd": 0.11477376,
+     "shots": 200
+    }
+   },
+   "IonQ Aria": {
+    "NSQST demo, 200 iters (100 fresh shadows/iter)": {
+     "qpu_seconds": 1025.18,
+     "usd": 1664.56,
+     "shots": 20000
+    },
+    "NSQST paper, 2000 iters": {
+     "qpu_seconds": 10251.8,
+     "usd": 16645.6,
+     "shots": 200000
+    },
+    "NSQST + pre-training (3000 CB shots + 200 shadows)": {
+     "qpu_seconds": 23.5568,
+     "usd": 37.78059999999999,
+     "shots": 3200
+    },
+    "plain classical-shadow fidelity (200 shadows)": {
+     "qpu_seconds": 10.2518,
+     "usd": 16.645599999999998,
+     "shots": 200
+    }
+   },
+   "IonQ Forte": {
+    "NSQST demo, 200 iters (100 fresh shadows/iter)": {
+     "qpu_seconds": 1025.18,
+     "usd": 1646.01,
+     "shots": 20000
+    },
+    "NSQST paper, 2000 iters": {
+     "qpu_seconds": 10251.8,
+     "usd": 16460.1,
+     "shots": 200000
+    },
+    "NSQST + pre-training (3000 CB shots + 200 shadows)": {
+     "qpu_seconds": 23.5568,
+     "usd": 40.4946,
+     "shots": 3200
+    },
+    "plain classical-shadow fidelity (200 shadows)": {
+     "qpu_seconds": 10.2518,
+     "usd": 25.7899,
+     "shots": 200
+    }
+   }
+  }
+ },
+ "10": {
+  "ibm": {
+   "depth": 247.1,
+   "two": 303.1,
+   "one": 35.4
+  },
+  "ionq": {
+   "depth": 150.8,
+   "two": 76.5,
+   "one": 226.8
+  },
+  "protocols": {
+   "IBM (Heron-class)": {
+    "NSQST demo, 200 iters (100 fresh shadows/iter)": {
+     "qpu_seconds": 8.390559999999999,
+     "usd": 13.424895999999999,
+     "shots": 20000
+    },
+    "NSQST paper, 2000 iters": {
+     "qpu_seconds": 83.90559999999999,
+     "usd": 134.24895999999998,
+     "shots": 200000
+    },
+    "NSQST + pre-training (3000 CB shots + 200 shadows)": {
+     "qpu_seconds": 0.8588056,
+     "usd": 1.37408896,
+     "shots": 3200
+    },
+    "plain classical-shadow fidelity (200 shadows)": {
+     "qpu_seconds": 0.0839056,
+     "usd": 0.13424896,
+     "shots": 200
+    }
+   },
+   "IonQ Aria": {
+    "NSQST demo, 200 iters (100 fresh shadows/iter)": {
+     "qpu_seconds": 1532.3600000000001,
+     "usd": 2489.67,
+     "shots": 20000
+    },
+    "NSQST paper, 2000 iters": {
+     "qpu_seconds": 15323.6,
+     "usd": 24896.7,
+     "shots": 200000
+    },
+    "NSQST + pre-training (3000 CB shots + 200 shadows)": {
+     "qpu_seconds": 32.2286,
+     "usd": 51.881699999999995,
+     "shots": 3200
+    },
+    "plain classical-shadow fidelity (200 shadows)": {
+     "qpu_seconds": 15.3236,
+     "usd": 24.8967,
+     "shots": 200
+    }
+   },
+   "IonQ Forte": {
+    "NSQST demo, 200 iters (100 fresh shadows/iter)": {
+     "qpu_seconds": 1532.3600000000001,
+     "usd": 2461.302,
+     "shots": 20000
+    },
+    "NSQST paper, 2000 iters": {
+     "qpu_seconds": 15323.6,
+     "usd": 24613.02,
+     "shots": 200000
+    },
+    "NSQST + pre-training (3000 CB shots + 200 shadows)": {
+     "qpu_seconds": 32.2286,
+     "usd": 55.37352,
+     "shots": 3200
+    },
+    "plain classical-shadow fidelity (200 shadows)": {
+     "qpu_seconds": 15.3236,
+     "usd": 25.7899,
+     "shots": 200
+    }
+   }
+  }
+ },
+ "12": {
+  "ibm": {
+   "depth": 365.0,
+   "two": 481.4,
+   "one": 52.4
+  },
+  "ionq": {
+   "depth": 192.8,
+   "two": 101.1,
+   "one": 294.3
+  },
+  "protocols": {
+   "IBM (Heron-class)": {
+    "NSQST demo, 200 iters (100 fresh shadows/iter)": {
+     "qpu_seconds": 9.994,
+     "usd": 15.990400000000001,
+     "shots": 20000
+    },
+    "NSQST paper, 2000 iters": {
+     "qpu_seconds": 99.93999999999998,
+     "usd": 159.904,
+     "shots": 200000
+    },
+    "NSQST + pre-training (3000 CB shots + 200 shadows)": {
+     "qpu_seconds": 0.87892,
+     "usd": 1.4062720000000002,
+     "shots": 3200
+    },
+    "plain classical-shadow fidelity (200 shadows)": {
+     "qpu_seconds": 0.09993999999999999,
+     "usd": 0.159904,
+     "shots": 200
+    }
+   },
+   "IonQ Aria": {
+    "NSQST demo, 200 iters (100 fresh shadows/iter)": {
+     "qpu_seconds": 2009.81,
+     "usd": 3266.3699999999994,
+     "shots": 20000
+    },
+    "NSQST paper, 2000 iters": {
+     "qpu_seconds": 20098.1,
+     "usd": 32663.699999999997,
+     "shots": 200000
+    },
+    "NSQST + pre-training (3000 CB shots + 200 shadows)": {
+     "qpu_seconds": 40.6031,
+     "usd": 65.4987,
+     "shots": 3200
+    },
+    "plain classical-shadow fidelity (200 shadows)": {
+     "qpu_seconds": 20.0981,
+     "usd": 32.6637,
+     "shots": 200
+    }
+   },
+   "IonQ Forte": {
+    "NSQST demo, 200 iters (100 fresh shadows/iter)": {
+     "qpu_seconds": 2009.81,
+     "usd": 3234.9089999999997,
+     "shots": 20000
+    },
+    "NSQST paper, 2000 iters": {
+     "qpu_seconds": 20098.1,
+     "usd": 32349.089999999997,
+     "shots": 200000
+    },
+    "NSQST + pre-training (3000 CB shots + 200 shadows)": {
+     "qpu_seconds": 40.6031,
+     "usd": 69.83559,
+     "shots": 3200
+    },
+    "plain classical-shadow fidelity (200 shadows)": {
+     "qpu_seconds": 20.0981,
+     "usd": 32.34909,
+     "shots": 200
+    }
+   }
+  }
+ }
+}
